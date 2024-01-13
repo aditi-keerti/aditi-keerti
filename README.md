@@ -1,10 +1,8 @@
-<h1 align="center">Hello 👋, I'm Aditi Bhadoriya</h1>
+<h1 align="center">Hi 👋, I'm Aditi Bhadoriya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width=400 src="![image](https://github.com/aditi-keerti/aditi-keerti/assets/76037392/0c9f8be9-1932-4703-8090-b9fb7984bc6b)
+<img align="right" alt="coding" src="https://camo.githubusercontent.com/e2f1962855098d77ac22977e9870ba19d43a10c3e46323a31e09727b68f8d37f/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132"/>
 
-">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-keerti" alt="aditi-keerti" /></a> </p>
 
 - 🔭 I’m currently working on [vestal-trouble](https://github.com/aditi-keerti/vestal-trouble-683)
 
