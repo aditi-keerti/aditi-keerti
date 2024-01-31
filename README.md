@@ -1,5 +1,8 @@
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="banner" width="100%" height="400px" />
+
+
 <h1 align="center">Hi 👋, I'm Aditi Bhadoriya</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e2f1962855098d77ac22977e9870ba19d43a10c3e46323a31e09727b68f8d37f/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132"/>
 
 
