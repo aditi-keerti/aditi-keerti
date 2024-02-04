@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences <a href="https://test-resume.masaischool.com/resume?resumeId=65a11bee257a2facba4f69a5&selectedTemplate=ClassicProfessional">Resume</a>
 
-👨‍💻 All of my projects are available at [Portfolio](https://aditi-keerti.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aditi-keerti.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
