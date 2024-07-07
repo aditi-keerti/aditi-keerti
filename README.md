@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Apollo hospital Website Clone](https://github.com/aditi-keerti/apollo-hospitalclone-website)
 
-- 💬 Ask me about **MongoDB, Express, NodeJS**
+- 💬 Ask me about **MongoDB, Express, NodeJS, Postgres**
 
 - 📫 How to reach me **aditibhadoriya1333@gmail.com**
 
