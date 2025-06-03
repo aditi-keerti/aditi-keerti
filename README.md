@@ -20,6 +20,25 @@
 - 📄 Know about my experiences <a href="https://test-resume.masaischool.com/resume?resumeId=65a11bee257a2facba4f69a5&selectedTemplate=ClassicProfessional">Resume</a>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://aditi-keerti.github.io/)
+  
+
+
+### 🧑‍💻 Experience
+
+🟣 **Backend Developer**  
+🏢 *Black Unicorn Digital Solutions*  
+📅 *Apr 2024 – Mar 2025*
+
+- 🧱 Built and maintained scalable backend architecture and RESTful APIs for multi-role web applications  
+
+- 🔐 Implemented role-based authentication, authorization, and access control systems
+  
+- 🚀 Optimized database queries for high availability and low latency
+  
+- 🔗 Integrated third-party payment gateways, notification services, and analytics with best practices
+  
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
